@@ -1,0 +1,13 @@
+﻿    Private Function Download(ByVal URL As String, ByVal pfad As String)
+        Dim WebC As New WebClient
+        Dim DownURL As New Uri(URL)
+        WebC.Proxy = Nothing
+        WebC.DownloadFileAsync(DownURL, pfad)
+        Return 0
+    End Function
+    Private Sub WebC_DownloadProgressChanged(ByVal sender As Object, ByVal e As System.Net.DownloadProgressChangedEventArgs) Handles WebC.DownloadProgressChanged
+        progress_load.Value = e.ProgressPercentage
+        lbl_progress.Text = e.BytesReceived & " / " & e.TotalBytesToReceive & " Bytes" & e.ProgressPercentage & "%"
+    End Sub
+
+        Private WithEvents WebC As New WebClient

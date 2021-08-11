@@ -1,0 +1,16 @@
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\bin\Debug\Winterspring-Launcher.exe.config
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\bin\Debug\Winterspring-Launcher.exe
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\bin\Debug\Winterspring-Launcher.pdb
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\bin\Debug\Winterspring-Launcher.xml
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring_Launcher.frm_launcher.resources
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring_Launcher.Resources.resources
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.vbproj.GenerateResource.cache
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.vbproj.CoreCompileInputs.cache
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.exe
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.xml
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.pdb
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\bin\Debug\Winterspring-Launcher.exe.manifest
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\bin\Debug\Winterspring-Launcher.application
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.TrustInfo.xml
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.exe.manifest
+E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.application
