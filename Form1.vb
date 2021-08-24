@@ -54,6 +54,11 @@ Public Class frm_launcher
         pb_cache.Enabled = False
     End Sub
 
+    'Change Realmlist
+    Private Sub change_realmlist_wtf()
+        'TO DO
+    End Sub
+
     'Download Complete
     Private Sub client_DownloadCompleted(ByVal sender As Object, ByVal e As System.ComponentModel.AsyncCompletedEventArgs)
 
