@@ -14,3 +14,11 @@ E:\Projects\Winterspring-Launcher\Winterspring-Launcher\bin\Debug\Winterspring-L
 E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.TrustInfo.xml
 E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.exe.manifest
 E:\Projects\Winterspring-Launcher\Winterspring-Launcher\obj\Debug\Winterspring-Launcher.application
+E:\MEGAsync\Projekte\Visual Studio\JackMorter\WS_Launcher\WS_Launcher\obj\Debug\Winterspring-Launcher.vbprojAssemblyReference.cache
+E:\MEGAsync\Projekte\Visual Studio\JackMorter\WS_Launcher\WS_Launcher\obj\Debug\Winterspring_Launcher.frm_launcher.resources
+E:\MEGAsync\Projekte\Visual Studio\JackMorter\WS_Launcher\WS_Launcher\obj\Debug\Winterspring_Launcher.Resources.resources
+E:\MEGAsync\Projekte\Visual Studio\JackMorter\WS_Launcher\WS_Launcher\obj\Debug\Winterspring-Launcher.vbproj.GenerateResource.cache
+E:\MEGAsync\Projekte\Visual Studio\JackMorter\WS_Launcher\WS_Launcher\obj\Debug\Winterspring-Launcher.vbproj.CoreCompileInputs.cache
+E:\MEGAsync\Projekte\Visual Studio\JackMorter\WS_Launcher\WS_Launcher\obj\Debug\Winterspring-Launcher.exe
+E:\MEGAsync\Projekte\Visual Studio\JackMorter\WS_Launcher\WS_Launcher\obj\Debug\Winterspring-Launcher.xml
+E:\MEGAsync\Projekte\Visual Studio\JackMorter\WS_Launcher\WS_Launcher\obj\Debug\Winterspring-Launcher.pdb

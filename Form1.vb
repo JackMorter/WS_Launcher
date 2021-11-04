@@ -56,7 +56,20 @@ Public Class frm_launcher
 
     'Change Realmlist
     Private Sub change_realmlist_wtf()
-        'TO DO
+        Dim jumbofile As String = myApp.DatPath & "\jumbodata.txt"
+        Dim newline As String = "NEW LINE"
+
+        If System.IO.File.Exists(jumbofile) Then
+        	Dim lines() As String = IO.File.ReadAllLines(jumbofile)
+        	For i As Integer = 0 To lines.Length - 1
+        		If lines(i).Contains("projectmappa:") Then
+        			lines(i) = newline 
+        		End If
+        	Next
+        	IO.File.WriteAllLines(jumbofile, lines) 'assuming you want to write the file
+        Else
+            MsgBox("jumbodata.txt  fájl nem található")
+        End If
     End Sub
 
     'Download Complete
@@ -84,7 +97,7 @@ Public Class frm_launcher
         Else
             'Download Patch-Z from WebSite
             download_patch()
-
+            change_realmlist_wtf()
         End If
     End Sub
 
@@ -105,6 +118,7 @@ Public Class frm_launcher
             End Select
         End If
     End Sub
+
 
     'Website Buton
     Private Sub pb_website_Click(sender As Object, e As EventArgs) Handles pb_website.Click
